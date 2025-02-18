@@ -38,6 +38,7 @@ To get started with the project, follow these steps:
 ```
 Budget-Buddy
 ```
+```
 ├── components
 │   ├── BudgetList.tsx          # Component for listing budgets
 │   ├── ExpenseList.tsx         # Component for listing expenses
