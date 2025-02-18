@@ -64,7 +64,7 @@ Budget-Buddy
 │   ├── ExpenseList.module.css   # Styles for ExpenseList component
 │   ├── globals.css              # Global CSS styles
 │   ├── Home.module.css          # Styles for Home component
-│   ├── LandingPage.module.css   # Styles for Landing Page(index)
+│   ├── LandingPage.module.css   # Styles for Landing Page
 │   ├── LoginForm.module.css     # Styles for LoginForm component
 │   ├── ModalWrapper.module.css  # Styles for ModalWrapper component
 │   ├── Navbar.module.css        # CSS module styles for Navbar component
