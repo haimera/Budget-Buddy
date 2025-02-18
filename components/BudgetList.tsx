@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import ExpenseTracker from './ExpenseTracker';
+import ExpenseTracker from './ExpenseList';
 import styles from '../styles/BudgetList.module.css';
 
 interface Expense {
